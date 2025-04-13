@@ -67,6 +67,7 @@ The goal of this platform is to collect, store, process, and analyze eCommerce d
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+For any help mail to ajithbhumireddy30@gmail.com
 
 ## 📝 License
 
