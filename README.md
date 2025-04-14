@@ -19,7 +19,7 @@ The goal of this platform is to collect, store, process, and analyze eCommerce d
 - **Amazon DynamoDB
 
 ## 📊 Architecture Diagram
-- You can see in my requiremnets files along with the  manifest files, and my project report 
+- You can see the screenshot image and also any doubts in steps refer project-1.pdf 
   
 ## 🔧 Setup and Deployment
 
